@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a senior at Hendrix College majoring in Math and Computer Science. Right now, I'm working on my senior capstone project developing a short online course to teach people without much experience in Math and Computer Science about cryptocurrencies (focusing on blockchain and hashing.) I also recently began working with a group to develop a contact tracing website for Dr. Kim Maslin, Professor of Politics at Hendrix College.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In my free time, I enjoy watching bad TLC shows, sleeping, and spending time with my fiancé, Josh Starks. My favorite color is pink, and my favorite food is the house fried rice at [Jade China][jade-china].
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[jade-china]: https://www.facebook.com/pages/Jade-China/121755544551070
