@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Introduction Post"
+title: "Introduction Post "
+author: "Chloe Baker"
 ---
 My experience setting up this blog had a pretty rough start. The last time I had to do anything in the terminal, so it took me awhile to get back into handling errors (and there were many!) Luckily, I had some saving graces throughout the process:
 * [Dr. Goadrich][dr-goadrich]
