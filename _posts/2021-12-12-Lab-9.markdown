@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Lab 9"
+author:  "Chloe Baker"
+---
+Other than accessing the Bash environment in the Azure Cloud Shell (I couldn't figure out how to get to it for awhile,) this tutorial was very easy to follow until I got to the step labelled "Run database migrations to the production database." When I tried to run the "$env..." command, I kept on getting the same error. I ended up providing Zoie with everything she needed and linking her to the part I was getting stuck on, but she couldn't get it to work either. That is where our group stopped following the tutorial. Apparently, none of the groups got past that part in the the tutorial because of the Hendrix wifi, so I'm glad that we're not alone. 

@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Lab 8"
+author:  "Chloe Baker"
+---
+Overall, this tutorial was pretty easy to follow. While doing part 1, I tried to do the optional step which messed me up at first, but once I realized it was optional and stopped trying to do it, everything else went smoothly. Changing Contoso University to the name I had chosen (Springfield University in honor of Dr. Downes' love for The Simpsons) and making the changes having to do with the age field for students was tedious, but figuring where those changes needed to be made and how to make them was pretty obvious to me while looking over the code the tutorial provided. I wouldn't say that working with multiple tables as opposed to one is difficult. There weren't that many differences in the way they're coded, and they were easy to understand. Once I was done with the tutorial, I felt that the project would be easier because the way the tables in the database can be linked makes it easier to make queries to the database. 

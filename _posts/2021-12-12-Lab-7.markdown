@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lab 7"
+author:  "Chloe Baker"
+---
+The tutorial I had to follow for this lab laid out everything very nicely and gave really great explanations for everything, so it wasn't difficult at all to follow along. When it came time to create [my own application however][app], I wasn't confident that I remembered all of the steps I needed to make sure I did, so I ended up having to basically follow the tutorial all over again from start to finish. For the most part, the tutorial explained everything I needed to do to make my own application work. The only thing I needed to figure out that the tutorial didn't cover was making a select list for an enum, but I was able to find an answer that was easy to follow on [Stack Overflow][help] pretty quickly.
+
+It seems like the only real differences between the Razor framework and the Jekyll framework is all of the stuff necessary for the database to work, like the models, scaffolding, and database queries. The HTML and CSS work the same for both, except with the Razor framework, you can do a whole lot more with the HTML. Overall, I feel quite confident about making more Razor applications. I think at this point, I have a pretty good understanding of the basics of the Razor framework. 
+
+[help]: https://stackoverflow.com/questions/40052794/html-getenumselectlist-getting-enum-values-with-spaces
+
+[app]: https://github.com/chloebaker/csci340lab7
